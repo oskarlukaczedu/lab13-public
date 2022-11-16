@@ -16,16 +16,16 @@
 // UIC CS 211, Fall 2022
 #include <stdio.h>
 
-void reed_ekidan2() {
-  printf("Dale Reed and Ellen Kidane\n");
-  printf("We learned that git and GitHub are amazing, powerful tools!\n");
+void olukac2_igarc26() {
+  printf("Oskar Lukacz and Immanol Garcia\n");
+  printf("In this lab we learned how to clone a repository and how to push this into a repository that we have created within github!\n"); 
 }
 
 int main()
 {
     printf("This code has been created by the students of CS 211, Fall 2022!\n\n");
     
-    reed_ekidan2();
+    olukac2_igarc26();
     
     return 0;
 }
